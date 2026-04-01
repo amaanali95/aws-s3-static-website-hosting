@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Amaan Portfolio</title>
+</head>
+
+<body style="font-family: Arial; text-align:center; background:#0f172a; color:white;">
+
+    <h1>Hi, I'm Amaan 👋</h1>
+    <h2>Future DevOps Engineer 🚀</h2>
+
+    <p>This website is hosted using AWS S3</p>
+
+    <button style="padding:10px; border:none; background:#22c55e; color:white; border-radius:5px;">
+        Contact Me
+    </button>
+
+</body>
+</html>
