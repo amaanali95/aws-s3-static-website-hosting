@@ -36,9 +36,9 @@ Designed and deployed a static portfolio website using Amazon Web Services (AWS)
 ## Project Outcome
 Successfully deployed a static portfolio website using AWS S3 and gained practical experience in cloud storage, website hosting, access management, and cloud deployment.
 
-## 📊 Project Presentation
+## 📂 Project Documentation
 
-View or download the PowerPoint presentation explaining the AWS S3 Static Website Hosting project.
+View or download the PowerPoint presentation and Report explaining the AWS S3 Static Website Hosting project.
 
 [**Download Project PPT**](AWS-S3-Static-Website-Hosting.pptx)
 
