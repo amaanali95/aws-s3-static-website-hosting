@@ -40,8 +40,7 @@ Successfully deployed a static portfolio website using AWS S3 and gained practic
 
 View or download the PowerPoint presentation explaining the AWS S3 Static Website Hosting project.
 
-[**Download Project PPT**] AWS-S3-Static-Website-Hosting.pptx
-
+[**Download Project PPT**](AWS-S3-Static-Website-Hosting.pptx)
 
 ## Author
 **Amaan Ali**  
